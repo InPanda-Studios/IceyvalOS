@@ -1,0 +1,1 @@
+void mread(uint8_t* buffer, long address, size_t size);
