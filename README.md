@@ -1,2 +1,2 @@
 # IceyvalOS
-The public repository for the iveyval operating system
+The public repository for the iceyval operating system
